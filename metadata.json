@@ -1,0 +1,6 @@
+{
+  "name": "Sài Gòn Kỳ Bí - Khám Phá Di Sản Nam Bộ",
+  "description": "Trò chơi phiêu lưu khám phá văn hóa di sản TP. Hồ Chí Minh, Bình Dương và Bà Rịa - Vũng Tàu với bản đồ 3D tương tác số hóa, hệ thống nhiệm vụ thu thập huy hiệu, AI Cố vấn Ba Son giải mã mọi câu hỏi và diễn đàn cộng đồng.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
